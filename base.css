@@ -122,4 +122,5 @@ img,video{max-width:100%;height:auto}
 @media all and (max-width: 780px) {
 	.styled-qc{margin:1.5em .5em}
 	.exe-layout-2-cols .exe-col,.exe-layout-3-cols .exe-col{float:none;width:100%;padding:0}   
+}.headerContent {
 }
